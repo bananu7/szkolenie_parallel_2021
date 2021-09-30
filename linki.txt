@@ -6,3 +6,7 @@ https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-fa
 
 stop_token i condition_variable:
 https://stackoverflow.com/questions/66309276/why-does-c20-stdcondition-variable-not-support-stdstop-token
+
+
+ankieta:
+https://hr.nobleprog.com/pl/node/add/training-evaluation?trainer_ref=16111&edit[field_language][und][0][value]=pl&edit[field_course_code][und][0][value]=cpp14multith&edit[field_course_event_url][und][0][value]=https://plbe.nobleprog.com/node/129871&edit[field_training_location][und][0][value]=+&course_name=Programowanie%20wielow%C4%85tkowe%20w%20j%C4%99zyku%20C%2B%2B&type=remote&edit[field_customer_name][und][0][value]=Samsung+Electronics+Polska+Sp.+z+o.o+&date=2021-09-27
